@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/robofriends.git
+    git clone (https://github.com/shamsdev01/robofriends-master.git)
     ```
 
 2. Change into the project directory:
